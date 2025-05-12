@@ -43,15 +43,15 @@
 
 ## Используемые Технологии
 
-* **Python 3**
-* **Pandas, NumPy:** 
-* **Matplotlib, Seaborn:** 
-* **Scipy.stats:** 
-* **scikit-learn:**
-* **CatBoost:** 
-* **PyTorch:** 
-* **Optuna:** 
-* **Hashlib:** 
+* **Python**
+* **Pandas, NumPy** 
+* **Matplotlib, Seaborn** 
+* **Scipy.stats** 
+* **scikit-learn**
+* **CatBoost** 
+* **PyTorch** 
+* **Optuna** 
+* **Hashlib** 
 
 ## Результаты и Практическая Направленность
 
